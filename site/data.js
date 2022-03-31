@@ -63,7 +63,7 @@ const albums = [{
   }]
 },{
   id: 4,
-  title: "The Drop"
+  title: "The Drop",
   artist: "Beat$mith",
   cover_image: "hiphop.jpg",
   tracks: [{
