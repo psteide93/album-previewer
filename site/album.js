@@ -103,5 +103,6 @@ ul.textContent = "Tracks"
 singleAlbum.tracks.map(track => {
     const li= document.createElement("li")
     li.textContent = track.title
-    ul.append(li)})
+    ul.append(li)
+})
 
